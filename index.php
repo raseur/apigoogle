@@ -5,7 +5,8 @@
 </form>
 
 <?php
-// Vérifiez si le formulaire a été soumis
+
+// Vérifie si le formulaire a été soumis
 if (isset($_GET['query'])) {
   // Récupérez la valeur de la requête de recherche
   $query = $_GET['query'];

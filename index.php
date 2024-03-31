@@ -1,3 +1,4 @@
+//api Google 
 <!-- formulaire HTML -->
 <form method="GET">
   <input type="text" name="query" placeholder="Rechercher sur Google">
